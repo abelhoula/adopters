@@ -22,3 +22,13 @@ Use Case: Foundation of the multi-cluster application and addons delivery for ou
 Project name: CLASTIX Enterprise Platform
 
 Project website: https://clastix.cloud/
+
+### Platform9 Systems
+
+Website: https://platform9.com/
+
+Use Case: Using sveltos for addon management for our next-gen cloud management platform.
+
+Project name: Private Cloud Director
+
+Project website: https://platform9.com/private-cloud-director/
