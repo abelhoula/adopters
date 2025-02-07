@@ -8,27 +8,21 @@ If you'd like to be included here, please update [this issue](https://github.com
 ## Adopters list 
 
 ### Mirantis, Inc.
-Website: https://mirantis.com
-Use Case: Incorporating ProjectSveltos into a future open source product. Currently still a little quiet about what exactly we are building.  More soon.
-Project name: Future
-Project website: Future
+- Website: https://mirantis.com
+- Use Case: Project Sveltos is the key component in Mirantis open source project k0rdent.  It is used as the core of the k0rdent State Manager
+- Project name: k0rdent
+- Project website: https://k0rdent.io
 
 ### CLASTIX Labs
 
-Website: https://clastix.io
-
-Use Case: Foundation of the multi-cluster application and addons delivery for our Enterprise platform offering.
-
-Project name: CLASTIX Enterprise Platform
-
-Project website: https://clastix.cloud/
+- Website: https://clastix.io
+- Use Case: Foundation of the multi-cluster application and addons delivery for our Enterprise platform offering.
+- Project name: CLASTIX Enterprise Platform
+- Project website: https://clastix.cloud/
 
 ### Platform9 Systems
 
-Website: https://platform9.com/
-
-Use Case: Using sveltos for addon management for our next-gen cloud management platform.
-
-Project name: Private Cloud Director
-
-Project website: https://platform9.com/private-cloud-director/
+- Website: https://platform9.com/
+- Use Case: Using sveltos for addon management for our next-gen cloud management platform.
+- Project name: Private Cloud Director
+- Project website: https://platform9.com/private-cloud-director/
