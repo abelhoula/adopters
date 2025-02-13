@@ -26,3 +26,10 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Use Case: Using sveltos for addon management for our next-gen cloud management platform.
 - Project name: Private Cloud Director
 - Project website: https://platform9.com/private-cloud-director/
+
+### Craftsman Software, Inc.
+
+- Website: <https://craftsman-software.com/>
+- Use Case: AppThrust is a **Kubernetes-based application development platform** designed to provide developers with a streamlined experience similar to Vercel or Heroku, but with the **extensibility and flexibility** required for enterprise use, enabling them to focus on application development without managing infrastructure while offering BYOI (bring your own IaaS) support to deploy on AWS, GKE, Azure, on-premises, or multi-cloud environments, being composed largely of OSS, and utilizing Sveltos—with its exceptional event framework and add-on capabilities—for multi-cluster management.
+- Project name: AppThrust
+- Project website: <https://github.com/appthrust/>
