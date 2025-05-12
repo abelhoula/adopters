@@ -33,3 +33,10 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Use Case: AppThrust is a **Kubernetes-based application development platform** designed to provide developers with a streamlined experience similar to Vercel or Heroku, but with the **extensibility and flexibility** required for enterprise use, enabling them to focus on application development without managing infrastructure while offering BYOI (bring your own IaaS) support to deploy on AWS, GKE, Azure, on-premises, or multi-cloud environments, being composed largely of OSS, and utilizing Sveltos—with its exceptional event framework and add-on capabilities—for multi-cluster management.
 - Project name: AppThrust
 - Project website: <https://github.com/appthrust/>
+
+### Tinext Cloud
+
+- Website: https://www.tinext.com/
+- Use Case: We use Sveltos to automate the deployment and management of preconfigured applications on our customers' Kubernetes clusters.
+- Project name: Tinext Managed Kubernetes Service
+- Project website: https://cloud.tinext.com
