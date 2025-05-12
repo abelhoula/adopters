@@ -40,3 +40,9 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Use Case: We use Sveltos to automate the deployment and management of preconfigured applications on our customers' Kubernetes clusters.
 - Project name: Tinext Managed Kubernetes Service
 - Project website: https://cloud.tinext.com
+
+### Dinova
+- Website: https://www.dinova.one
+- Use Case: Dinova, a digital innovation company based in Italy, uses Sveltos to provide scalable and resilient managed Kubernetes services. By leveraging Sveltos and its drift detection system, Dinova efficiently delivers isolated Kubernetes clusters to customers with full automation and transparency, maintaining cluster integrity, automatically restoring critical resources if tampered with, ensuring resilience and operational reliability across their platform.
+- Project name: Dinova Cloud Kubernetes Service
+- Project website: https://www.dinova.one
