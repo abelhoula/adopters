@@ -1,15 +1,16 @@
 # Adopters
 
-If you're using _Projectsveltos_ in your organization, please try to add your company name to this list. 
+If you're using _Projectsveltos_ in your organization, please try to add your company name to this list.
 It really helps the project to gain momentum and credibility.
 
 If you'd like to be included here, please update [this issue](https://github.com/projectsveltos/adopters/issues/1) or open a Pull-Request and your information will included.
 
-## Adopters list 
+## Adopters list
 
 ### Mirantis, Inc.
+
 - Website: https://mirantis.com
-- Use Case: Project Sveltos is the key component in Mirantis open source project k0rdent.  It is used as the core of the k0rdent State Manager
+- Use Case: Project Sveltos is the key component in Mirantis open source project k0rdent. It is used as the core of the k0rdent State Manager
 - Project name: k0rdent
 - Project website: https://k0rdent.io
 
@@ -42,7 +43,15 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Project website: https://cloud.tinext.com
 
 ### Dinova
+
 - Website: https://www.dinova.one
 - Use Case: Dinova, a digital innovation company based in Italy, uses Sveltos to provide scalable and resilient managed Kubernetes services. By leveraging Sveltos and its drift detection system, Dinova efficiently delivers isolated Kubernetes clusters to customers with full automation and transparency, maintaining cluster integrity, automatically restoring critical resources if tampered with, ensuring resilience and operational reliability across their platform.
 - Project name: Dinova Cloud Kubernetes Service
 - Project website: https://www.dinova.one
+
+### SparkFabrik
+
+- Website: https://www.sparkfabrik.com/
+- Use Case: SparkFabrik leverages Projectsveltos to automate infrastructure deployments across AWS (EKS), Google Kubernetes Engine (GKE), Azure (AKS) and on-premises environments, centrally managing the installation and upgrading of Kubernetes add-ons and applications.
+- Project name: Platform Team
+- Project website: https://www.sparkfabrik.com/
