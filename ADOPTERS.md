@@ -55,3 +55,11 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Use Case: SparkFabrik leverages Projectsveltos to automate infrastructure deployments across AWS (EKS), Google Kubernetes Engine (GKE), Azure (AKS) and on-premises environments, centrally managing the installation and upgrading of Kubernetes add-ons and applications.
 - Project name: Platform Team
 - Project website: https://www.sparkfabrik.com/
+
+### Engineering
+
+- Website: https://www.eng.it/it
+- Use Case: We use ProjectSveltos with Crossplane to provide on demand Kubernetes clusters to our developers and distribute addons at scale to the managed clusters. It eneabled us to flexibly leverage templates, events and addons deployment ordering with a pretty linear learning curve.
+- Project name: Platform Team
+- Project website: 
+
